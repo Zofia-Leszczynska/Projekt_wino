@@ -1,0 +1,1 @@
+define({"../Content/A_Opisy/1_Dla_kogo_jest_ten_przewodnik.htm":0,"../Content/A_Opisy/2_Co_to_jest_wino.htm":1,"../Content/A_Opisy/3_Historia_wina.htm":2,"../Content/A_Opisy/4_Rola_wina_w_kulturze.htm":3,"../Content/A_Opisy/5_Wskazówki_winiarza.htm":4,"../Content/D_Ogolne/Strona_tytulowa.htm":5,});
